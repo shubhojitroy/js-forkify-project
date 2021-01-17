@@ -1,4 +1,4 @@
-17510
+17511
 179C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\htmlnano\node_modules\terser132546302421338867 1
 192C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\stylehacks\dist\dictionary\identifiers.js121436361000000000 0
 185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\features\typed-array\of.js121436361000000000 0
@@ -15,7 +15,7 @@
 181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\es\object\is-sealed.js121436361000000000 0
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\is-descriptor132546302429631077 1
 165C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\posthtml\types132546302291282438 1
-142C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist132553446804910160 1
+142C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist132553907205024221 1
 175C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string.prototype.trimend132546302420241787 1
 178C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\preset-react\LICENSE121012626000000000 0
 180C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\ts-utils\package.json132546302425687033 0
@@ -71,7 +71,7 @@
 187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\modules\esnext.math.umulh.js121436361000000000 0
 230C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-normalize-whitespace\node_modules\postcss-value-parser\lib\stringify.js121436361000000000 0
 183C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2016\ToUint8Clamp.js121436361000000000 0
-167C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\views\bookmarksView.js132553443269462998 0
+167C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\views\bookmarksView.js132553459041190798 0
 171C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\fp\pickAll.js121436361000000000 0
 189C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2017\SpeciesConstructor.js121436361000000000 0
 191C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2020\StringGetOwnProperty.js121436361000000000 0
@@ -164,7 +164,7 @@
 204C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\plugin-transform-react-jsx-development\LICENSE121012626000000000 0
 171C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\_baseClone.js121436361000000000 0
 183C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\resolve\test\module_dir\zmodules132546302349169990 1
-155C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\helpers.js132546715217342740 0
+155C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\helpers.js132553907202099145 0
 179C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\crypto-browserify\test\dh.js130909473450000000 0
 225C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\CHANGELOG.md121436361000000000 0
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\asn1\lib\ber132546302314368848 1
@@ -185,7 +185,7 @@
 157C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\jsprim132546302409438088 1
 191C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\word-break.js121436361000000000 0
 201C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\plugin-syntax-async-generators\lib\index.js121436361000000000 0
-153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\model.js132553445532880057 0
+153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\model.js132553902610389565 0
 205C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\import.js121436361000000000 0
 181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\source-map\lib\mapping-list.js131369414910000000 0
 186C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\audio.js121436361000000000 0
@@ -269,13 +269,6 @@
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\xmlchars\xml132546302288745810 1
 193C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\rel-noopener.js121436361000000000 0
 173C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\log-symbols\browser.js121436361000000000 0
-192C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\htmlnano\node_modules\posthtml\lib\api.js121436361000000000 0
-169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\defaults.js121436361000000000 0
-158C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\asn1.js132546302421897369 1
-188C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\resolve\test\node_path\x\ccc\index.js121436361000000000 0
-187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\jsdom\lib\jsdom\living\attributes.js121436361000000000 0
-181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\preset-env\lib\debug.js121012626000000000 0
-153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\ws132546302407618668 1
 166C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\snapdragon-util132546302421288987 1
 180C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\_isStrictComparable.js121436361000000000 0
 207C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\regenerate-unicode-properties\Script_Extensions\Runic.js121436361000000000 0
@@ -343,11 +336,15 @@
 182C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2016\ArrayCreate.js121436361000000000 0
 166C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\slice.js121436361000000000 0
 154C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\config.js132550281352030751 0
-158C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\controller.js132553446764144742 0
+158C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\controller.js132553896490579572 0
 173C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\nanomatch\package.json132546302409657508 0
 186C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-value-parser\lib\index.d.ts121436361000000000 0
-150C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\views132553412702855012 1
+150C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\views132553820643002790 1
 175C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\nanomatch\lib\parsers.js121436361000000000 0
+167C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\src\js\views\addRecipeView.js132553853993699807 0
+160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk\bin132546302300385752 1
+194C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\accelerometer.js121436361000000000 0
+196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\permissions-api.js121436361000000000 0
 206C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2016\MakeDay.js121436361000000000 0
 217C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2019\IsConcatSpreadable.js121436361000000000 0
 190C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\asn1.js\node_modules\bn.js\package.json132546302435734959 0
@@ -568,6 +565,13 @@
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\array-filter132546302435874578 1
 187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\stable\string\starts-with.js121436361000000000 0
 212C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\regenerate-unicode-properties\Script_Extensions\Glagolitic.js121436361000000000 0
+192C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\htmlnano\node_modules\posthtml\lib\api.js121436361000000000 0
+169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\defaults.js121436361000000000 0
+158C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\asn1.js132546302421897369 1
+188C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\resolve\test\node_path\x\ccc\index.js121436361000000000 0
+187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\jsdom\lib\jsdom\living\attributes.js121436361000000000 0
+181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\preset-env\lib\debug.js121012626000000000 0
+153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\ws132546302407618668 1
 157C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\assert132546302407648592 1
 169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\chokidar\README.md121436361000000000 0
 198C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-values\node_modules\postcss\lib132546302315101859 1
@@ -723,13 +727,6 @@
 184C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\utils\src\prettifyTime.js121436361000000000 0
 181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\uri-js\dist\es5\uri.all.js.map121436361000000000 0
 162C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\signal-exit132546302421478493 1
-188C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\resolve\test\node_path\y\bbb\index.js121436361000000000 0
-195C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\features\dom-collections\for-each.js121436361000000000 0
-185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\http-proxy\lib\http-proxy\index.js121436361000000000 0
-183C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\stable\number\epsilon.js121436361000000000 0
-185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\features\array\is-array.js121436361000000000 0
-163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string-width132546302420082215 1
-163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\terser\tools132546302330684985 1
 173C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\w3c-hr-time\LICENSE.md132279277550000000 0
 183C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2018\IteratorNext.js121436361000000000 0
 226C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\className.js121436361000000000 0
@@ -1460,10 +1457,10 @@
 198C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\input-placeholder.js121436361000000000 0
 167C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\semver\range.bnf121436361000000000 0
 161C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\fill-range132546302415396014 1
+206C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string.prototype.trimstart\.github\workflows\rebase.yml121436361000000000 0
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\finalhandler132546302412374624 1
 177C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\types\package.json132546302435734959 0
 192C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\highlight.js\styles\atelier-dune-dark.css131406724530000000 0
-206C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string.prototype.trimstart\.github\workflows\rebase.yml121436361000000000 0
 185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\transformer-jsonld\LICENSE121436361000000000 0
 205C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\test\es2017.js121436361000000000 0
 243C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\constructors.js121436361000000000 0
@@ -2470,6 +2467,13 @@
 184C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\purgecss\node_modules\postcss\lib132546302321002532 1
 157C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\srcset132546302420501096 1
 156C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk132546302414891280 1
+188C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\resolve\test\node_path\y\bbb\index.js121436361000000000 0
+195C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\features\dom-collections\for-each.js121436361000000000 0
+185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\http-proxy\lib\http-proxy\index.js121436361000000000 0
+183C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\stable\number\epsilon.js121436361000000000 0
+185C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\features\array\is-array.js121436361000000000 0
+163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string-width132546302420082215 1
+163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\terser\tools132546302330684985 1
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\uniqs\test.js130462575640000000 0
 188C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\stable\string\virtual\trim.js121436361000000000 0
 177C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\string.prototype.trimstart132546302420211868 1
@@ -3258,7 +3262,7 @@
 208C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\regenerator-transform\lib\replaceShorthandObjectMethod.js121436361000000000 0
 210C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\jsdom\lib\jsdom\living\websockets\WebSocket-impl-browser.js121436361000000000 0
 209C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2015\IsCallable.js121436361000000000 0
-161C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\icons.e1a36bb4.svg132553446802755947 0
+161C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\icons.e1a36bb4.svg132553907204428006 0
 200C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\es2017.js121436361000000000 0
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\packager-ts\lib132546302348510949 1
 214C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2016\SetFunctionName.js121436361000000000 0
@@ -4311,8 +4315,8 @@
 226C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2016\GetPrototypeFromConstructor.js121436361000000000 0
 184C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\core-js\es\number\to-precision.js121436361000000000 0
 220C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\regenerate-unicode-properties\General_Category\Initial_Punctuation.js121436361000000000 0
-179C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\har-schema\lib\postData.json131370181680000000 0
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\parse-json\package.json132546302424282109 0
+179C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\har-schema\lib\postData.json131370181680000000 0
 202C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\font-family-system-ui.js121436361000000000 0
 214C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\util.promisify\node_modules\es-abstract\2016\GetSubstitution.js121436361000000000 0
 217C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\regenerate-unicode-properties\General_Category\Lowercase_Letter.js121436361000000000 0
@@ -5475,9 +5479,6 @@
 201C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\spellcheck-attribute.js121436361000000000 0
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\nanomatch\lib132546302297975114 1
 168C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk\.travis.yml131057659630000000 0
-160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk\bin132546302300385752 1
-194C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\accelerometer.js121436361000000000 0
-196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\features\permissions-api.js121436361000000000 0
 160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk\lib132546302302574814 1
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\sshpk\LICENSE130913301440000000 0
 184C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\2020\UnicodeEscape.js121436361000000000 0
@@ -7187,9 +7188,6 @@
 176C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\object-is\test\shimmed.js121436361000000000 0
 173C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\querystring\History.md130069927510000000 0
 176C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\html-encoding-sniffer\lib132546302287431910 1
-174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\has-values\node_modules132546302376804297 1
-186C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-extract-imports\lib132546302307622294 1
-196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\5\AbstractRelationalComparison.js121436361000000000 0
 168C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\has-ansi\index.js130472477370000000 0
 176C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\http-signature\CHANGES.md131480975920000000 0
 198C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\jsdom\lib\jsdom\living\nodes\ShadowRoot-impl.js121436361000000000 0
@@ -7915,6 +7913,9 @@
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\fp\capitalize.js121436361000000000 0
 182C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\caniuse-lite\data\regions\ET.js121436361000000000 0
 230C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
+174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\has-values\node_modules132546302376804297 1
+186C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-extract-imports\lib132546302307622294 1
+196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\es-abstract\5\AbstractRelationalComparison.js121436361000000000 0
 195C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-extract-imports\node_modules132546302391279693 1
 192C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\postcss-modules-extract-imports\README.md130866229650000000 0
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\iferr\LICENSE132546302333111189 0
@@ -8654,7 +8655,6 @@
 160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\pako\dist132546302329067013 1
 159C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\pako\lib132546302324469538 1
 172C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\isArguments.js121436361000000000 0
-181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\flow132546302309747392 1
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\pako\LICENSE121436361000000000 0
 187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\diagnostic\src\diagnostic.js121436361000000000 0
 168C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\pako\package.json132546302424312030 0
@@ -9801,7 +9801,7 @@
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\is-windows\package.json132546302428972841 0
 170C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\wrapperAt.js121436361000000000 0
 173C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\wrapperChain.js121436361000000000 0
-169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.025e7f60.js.map132553446804900189 0
+169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.025e7f60.js.map132553907205006439 0
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\babel-ast-utils132546302414957184 1
 193C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js121436361000000000 0
 174C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\lodash\wrapperLodash.js121436361000000000 0
@@ -16839,6 +16839,7 @@
 196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\core\lib\transformation\plugin-pass.js121012626000000000 0
 196C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\clone\cloneDeepWithoutLoc.js121012626000000000 0
 187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\builder.js121012626000000000 0
+181C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\flow132546302309747392 1
 186C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\generated132546302310840756 1
 182C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\react132546302311760436 1
 187C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\@babel\types\lib\builders\typescript132546302312371591 1
@@ -17497,15 +17498,15 @@
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\.bin\uuid.cmd132546302443598168 0
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\.bin\uuid.ps1132546302443598168 0
 165C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\node_modules\.bin\which.cmd132546302443717848 0
-165C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.025e7f60.js132553446804870268 0
+165C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.025e7f60.js132553907204976518 0
 165C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.83692979.js132552505855463597 0
 169C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\controller.83692979.js.map132552505855503624 0
 163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\favicon.1489493a.png132552505854815338 0
-163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\favicon.4de05dc2.png132553446802745948 0
-153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\index.html132553446802765906 0
-160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\logo.8021da3e.png132553446802785849 0
+163C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\favicon.4de05dc2.png132553907204428006 0
+153C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\index.html132553907204437988 0
+160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\logo.8021da3e.png132553907204447950 0
 160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\logo.89d3f789.png132552505854875175 0
-160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.0126acb7.css132553446802765906 0
-164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.0126acb7.css.map132553446802825753 0
+160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.0126acb7.css132553907204447950 0
+164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.0126acb7.css.map132553907204507775 0
 160C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.982f4298.css132552505854875175 0
 164C:\Users\shubhojit roy\Documents\projects\The Complete JavaScript Course 2020 From Zero to Expert - updated on 10-2020\js-forkify-project\dist\main.982f4298.css.map132552505854915056 0
